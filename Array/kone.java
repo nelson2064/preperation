@@ -16,7 +16,7 @@ public class kone {
             rightMax[i] = Math.max(rightMax[i + 1], height[i]);
         }
         
-
+        
 
         int trappedWater = 0;
         int width = 1;
